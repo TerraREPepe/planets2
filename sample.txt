@@ -1,1 +1,2 @@
 This is sample text for the Gila_Repository. 
+Second line of descriptive text.
